@@ -1,0 +1,13 @@
+{
+    "name": "root/patterns",
+    "authors": [
+        {
+            "name": "dimajolkin",
+            "email": "dimajolkin@rambler.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"patterns\\": "src/"}
+    },
+    "require": {}
+}
